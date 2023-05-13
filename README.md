@@ -14,3 +14,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/armstrongnum.go">
     • Armstrong number
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/fibonacciseries.go">
+    • Fibonacci Series upto nth term
+</a><br>
