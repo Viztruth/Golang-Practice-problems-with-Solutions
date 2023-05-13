@@ -8,3 +8,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/revanum.go">
     • Reverse of a number
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/palindromenum.go">
+    • Palindrome number
+</a><br>
