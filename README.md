@@ -17,3 +17,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/fibonacciseries.go">
     • Fibonacci Series upto nth term
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/factorial.go">
+    • Fibonacci Series upto nth term
+</a><br>
