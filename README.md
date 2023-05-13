@@ -20,3 +20,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/factorial.go">
     • Factorial of a number
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/factorsofnum.go">
+    • Factors of a number
+</a><br>
