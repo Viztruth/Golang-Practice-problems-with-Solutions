@@ -18,5 +18,5 @@
     • Fibonacci Series upto nth term
 </a><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/factorial.go">
-    • Fibonacci Series upto nth term
+    • Factorial of a number
 </a><br>
