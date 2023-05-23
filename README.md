@@ -23,3 +23,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/factorsofnum.go">
     • Factors of a number
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/evenoroddnum.go">
+    • Even or Odd number
+</a><br>
