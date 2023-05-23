@@ -32,4 +32,7 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/primenum.go">
     • Prime Number
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/perfectsquare.go">
+    • Perfect Square
+</a><br>
 
