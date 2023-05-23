@@ -5,6 +5,9 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/evenoroddnum.go">
     • Even or Odd number
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/largestof3.go">
+    • Largest of 3 numbers
+</a><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/sumofdig.go">
     • Sum of digits of a number
 </a><br>
