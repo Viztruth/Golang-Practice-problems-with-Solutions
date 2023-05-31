@@ -46,3 +46,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/repelearray.go">
     • Replace element in slice
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/largsmleleslice.go">
+    • Largest and smallest element in slice
+</a><br>
