@@ -40,3 +40,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/arrays.go">
     • Defining arrays
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/slices.go">
+    • Defining slices
+</a><br>
