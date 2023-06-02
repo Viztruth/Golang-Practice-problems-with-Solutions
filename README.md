@@ -35,6 +35,9 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/perfectsquare.go">
     • Perfect Square
 </a><br><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/passbyreference.go">
+    • Function call by reference
+</a><br><br>
 
 <strong>⭐ Arrays / Slices ⭐</strong><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/arrays.go">
