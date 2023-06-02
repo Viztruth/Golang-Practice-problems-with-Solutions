@@ -4,6 +4,19 @@ package main
 
 import "fmt"
 
+//function for finding the largest and the smallest
+func largest(arr[]int, size int, l *int, s *int){
+  for i:=0;i<size;i++{
+    if *l<arr[i]{
+      *l=arr[i]
+    }
+
+    if *s>arr[i]{
+      *s=arr[i]
+    }
+  }
+}
+
 func main(){
 
   //defining a slice
@@ -14,16 +27,8 @@ func main(){
   l:=slc[0]
   s:=slc[0]
 
-  //finding the largest and the smallest
-  for i:=0;i<n;i++{
-    if l<slc[i]{
-      l=slc[i]
-    }
-
-    if s>slc[i]{
-      s=slc[i]
-    }
-  }
+  //calling function
+  largest(slc,n,&l,&s)
 
   //displying the output
   fmt.Printf("\nThe largest and the smallest are: %d, %d",l,s)
