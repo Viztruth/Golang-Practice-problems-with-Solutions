@@ -52,6 +52,9 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/repelearray.go">
     • Replace element in slice
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/sumofalleleslice.go">
+    • Sum of all elements in slice (Passing slices to functions)
+</a><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/largsmleleslice.go">
     • Largest and smallest element in slice
 </a><br>
