@@ -42,7 +42,7 @@
     • Function call by reference
 </a><br><br><br>
 
-<strong>⭐ Arrays / Slices ⭐</strong><br>
+<strong><a href="https://blog.devgenius.io/the-difference-between-arrays-and-slices-in-golang-6a7b3781c14a">⭐ Arrays / Slices </a>⭐</strong><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/arrays.go">
     • Defining arrays
 </a><br>
