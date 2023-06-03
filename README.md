@@ -64,3 +64,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/revslice.go">
     • Reverse a slice
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/bubblesort.go">
+    • Sorting a slice
+</a><br>
