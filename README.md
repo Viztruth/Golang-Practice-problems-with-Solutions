@@ -69,9 +69,9 @@
 </a><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/freqeleslice.go">
     • Frequency of elements in slice
-</a><br><br><br>
+</a><br><br>
 
-<strong>⭐ STRINGS⭐</strong><br>
+<strong>⭐ STRINGS ⭐</strong><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/stringdeclaration.go">
-    • Defining strings, converting to Uppercase, Lowercase, Titlecase
+    • Defining strings and basic string case manipulation
 </a><br>
