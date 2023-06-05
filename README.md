@@ -1,4 +1,7 @@
 # Golang Practice problems with Solutions
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" width="250" alt="Golang">
+</p>
 👉Well curated repo. containing solutions for all the practice questions that I've solved while I was learning Go language. 💡View README file for topic wise grouping of questions. This repo. can be useful for beginner and intermediate-level Go programmers. If you found this repo. useful, don't forget to star the repo and give a follow.
 
 <h2>Solved Problems</h2>
