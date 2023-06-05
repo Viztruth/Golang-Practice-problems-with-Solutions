@@ -75,3 +75,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/stringdeclaration.go">
     • Defining strings and basic string case manipulation
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/vowelsinstring.go">
+    • Counting the number of vowels in string
+</a><br>
