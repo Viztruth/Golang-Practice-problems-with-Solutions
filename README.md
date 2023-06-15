@@ -89,4 +89,9 @@
 </a><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/sumofnostr.go">
     • Count the sum of numbers in a string
-</a><br>
+</a><br><br>
+
+<strong>⭐ PATTERNS ⭐</strong><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/squarepattern.go">
+    • Square pattern -<br>&nbsp;&nbsp;&nbsp;&nbsp;* * * * <br>&nbsp;&nbsp;&nbsp;&nbsp;* * * * <br>&nbsp;&nbsp;&nbsp;&nbsp;* * * * <br>&nbsp;&nbsp;&nbsp;&nbsp;* * * *
+</a><br><br>
