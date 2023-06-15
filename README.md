@@ -87,3 +87,6 @@
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/stringpalindrome.go">
     • Check if a given string is palindrome
 </a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/sumofnostr.go">
+    • Count the sum of numbers in a string
+</a><br>
