@@ -89,6 +89,9 @@
 </a><br>
 <a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/sumofnostr.go">
     • Count the sum of numbers in a string
+</a><br>
+<a href="https://github.com/Viztruth/Golang-Practice-problems-with-Solutions/blob/main/anagram.go">
+    • Check if 2 strings are anagram or not
 </a><br><br>
 
 <strong>⭐ PATTERNS ⭐</strong><br>
